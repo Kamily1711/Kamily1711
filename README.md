@@ -13,8 +13,8 @@ I've been focused in Python since the begining of 2023,and nowadays I'm an advan
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kamily__gomes?igshid=ZDc4ODBmNjlmNQ==) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamily-cristina-de-oliveira-gomes-4bb185274)
 
 #  📊  Beecrowd Stats:
+![statistics2](https://github.com/KamilyCOGomes/KamilyCOGomes/assets/125691825/316bd0da-a88f-4ccd-90f1-273cd7196e98)
 ![statistics](https://github.com/KamilyCOGomes/KamilyCOGomes/assets/125691825/38da8bb8-eb82-4ab7-971b-d058671b963e)
-![statistics2](https://github.com/KamilyCOGomes/KamilyCOGomes/assets/125691825/67b2337a-3df2-45f8-8903-fe633d570978)
 
 # 📫 How to reach me
 kamilygomesufutech@gmail.com
