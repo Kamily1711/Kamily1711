@@ -14,7 +14,7 @@ I've been focused in Python since the begining of 2023,and nowadays I'm an advan
 
 #  📊  Beecrowd Stats:
 ![statistics](https://github.com/KamilyCOGomes/KamilyCOGomes/assets/125691825/38da8bb8-eb82-4ab7-971b-d058671b963e)
-![statistics](https://github.com/KamilyCOGomes/KamilyCOGomes/assets/125691825/67b2337a-3df2-45f8-8903-fe633d570978)
+![statistics2](https://github.com/KamilyCOGomes/KamilyCOGomes/assets/125691825/67b2337a-3df2-45f8-8903-fe633d570978)
 
 # 📫 How to reach me
 kamilygomesufutech@gmail.com
